@@ -1,8 +1,9 @@
 # IDN Reference Resource Register
 
-This repository contains the reference data - background vocabularies, spatial datasets and models - part of the data of the Indigenous Data Network (IDN)'s Knowledge Graph. This information is available online at:
+This repository contains the reference data - background vocabularies, spatial datasets and models - part of the data of the Indigenous Data Network (IDN)'s Knowledge Graph.
 
-- https://data.idnau.org/catalogs/pid:reference-resource-register
+> [!IMPORTANT]
+> Resources in this catalogue are now maintained in the IDN's [Indigenous Data Catalogue](https://github.com/idn-au/indigenous-data-catalogue) in the [`reference/`](https://github.com/idn-au/indigenous-data-catalogue/tree/main/resources/reference) folder.
 
 All the resources in this catalogue are listed in the _Prez resources section_ below. These resources are automatically validated and (re)loaded into the catalogue online using the [Prez Manifest](https://pypi.org/project/prezmanifest/) tool.
 
